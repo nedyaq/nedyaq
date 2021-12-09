@@ -1,4 +1,4 @@
-Hi, i'm Nedyak Anton, system analyst in russian company DNS Technology.
+Hi, i'm Nedyak Anton, middle systems analyst in russian company DNS Technology.
 
 I worked with:
 - C# (ASP.NET)
