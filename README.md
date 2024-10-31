@@ -1,4 +1,4 @@
-Hi, i'm Anton Nedyak, a systems analyst in [SmartDS](https://smartds.ru "SmartDS site").
+Hi, i'm Anton Nediak, a systems analyst in [SmartDS](https://smartds.ru "SmartDS site").
 
 My work experience as a systems analyst is related to two companies. 
 - In the first company, this involved working on the internal sales system of a large retailer. The system exists as a web application with a C# backend and is integrated with ERP and the online store.
